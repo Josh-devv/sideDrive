@@ -8,13 +8,13 @@ type Props = {};
 
 const Hero = (props: Props) => {
   return (
-    <div className="w-screen relative pt-25 flex justify-center items-center">
-      <div className="w-[95%]  relative p-5 h-creen flex text-black font-sans bg-white justify-start">
-        <div className="flex w-[50%] flex-col py-8 justify-start items-start">
-          <h4 className="text-black w-[95%] text-start text-[4vw] font-extrabold">
-            The Largest Luxury Car Rental Marketplace
+    <div className="container w-screen h-[90vh] pt-7 relative  flex justify-center items-center">
+      <div className="container w-[95%]  relative  flex text-black font-sans bg-white justify-start">
+        <div className="flex w-[50%] flex-col pt-8 justify-start items-start">
+          <h4 className="text-black w-[95%] font-poppins text-start text-[4vw] font-extrabold">
+            The largest luxury car rental marketplace
           </h4>
-          <p className="text-start text-[15px] font-mono w-full">
+          <p className="text-start text-[15px] font-poppins w-full">
 Our team offering you a wide selection of high-end cars for rent
           </p>
 

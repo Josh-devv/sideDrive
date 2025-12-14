@@ -11,8 +11,8 @@ export const Header: React.FC = () => {
 
   return (
   
-    <header className="sticky px-5 py-4 font-mono flex justify-center  top-0 z-50 w-full border-b bg-white/95 backdrop-blur-sm">
-      <div className="container w-[95%] flex justify-center items-center">
+    <header className="sticky px-5 py-4 font-poppins flex justify-center  top-0 z-50 w-full border-b bg-white/95 backdrop-blur-sm">
+      <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex w-full items-center justify-between">
           
         
